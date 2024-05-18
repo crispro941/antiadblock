@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+  <product>  <ref>R1</ref>
+    <title>Cardio para principiantes</title>
+    <content>Rutina básica de cardio para comenzar a ponerte en forma.</content>
+    <category>Cardio</category>
+    <subcategory></subcategory> <price></price> <price_descr></price_descr> <year></year> <month></month> <day></day> <detail_url></detail_url> <buy_url></buy_url> <pictures>
+      <picture_url>cardio.jpg</picture_url> </pictures>
+  </product>
+
+  <product>  <ref>R2</ref>
+    <title>Fuerza en casa para tonificar</title>
+    <content>Ejercicios simples y efectivos para fortalecer todo el cuerpo sin salir de casa.</content>
+    <category>Fuerza</category>
+    <subcategory></subcategory> <price></price> <price_descr></price_descr> <year></year> <month></month> <day></day> <detail_url></detail_url> <buy_url></buy_url> <pictures>
+      <picture_url>fuerza.jpg</picture_url> </pictures>
+  </product>
+
+  <product>  <ref>R3</ref>
+    <title>Yoga para principiantes</title>
+    <content>Introducción a las posturas básicas del yoga para mejorar la flexibilidad y la relajación.</content>
+    <category>Yoga</category>
+    <subcategory></subcategory> <price></price> <price_descr></price_descr> <year></year> <month></month> <day></day> <detail_url></detail_url> <buy_url></buy_url> <pictures>
+      <picture_url>yoga.jpg</picture_url> </pictures>
+  </product>
+
+</list>
+    
